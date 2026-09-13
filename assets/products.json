@@ -1,0 +1,206 @@
+[
+  {
+    "id": "alpine-ilx-f509",
+    "brand": "Alpine",
+    "name": "Alpine iLX-F509",
+    "price": 699,
+    "screen": "9-inch",
+    "desc": "Refurbished Alpine Halo9 digital multimedia receiver with a 9-inch HD floating display, wireless Apple CarPlay and Android Auto, Bluetooth hands-free and SiriusXM-ready connectivity.",
+    "features": [
+      "9-inch HD display",
+      "Wireless Apple CarPlay & Android Auto",
+      "Bluetooth hands-free",
+      "SiriusXM-ready with compatible tuner",
+      "HDMI input/output",
+      "Two camera inputs"
+    ],
+    "image": "https://www.onlinecarstereo.com/CarAudio/assets/ProductImages/iLX-F509_3.jpg"
+  },
+  {
+    "id": "alpine-ilx-f511",
+    "brand": "Alpine",
+    "name": "Alpine iLX-F511",
+    "price": 799,
+    "screen": "11-inch",
+    "desc": "Refurbished Alpine Halo11 multimedia receiver with an adjustable 11-inch HD floating display, wireless smartphone integration, Bluetooth and advanced audio tuning.",
+    "features": [
+      "11-inch HD floating display",
+      "Wireless Apple CarPlay & Android Auto",
+      "Bluetooth hands-free",
+      "Hi-Res audio playback",
+      "HDMI input/output",
+      "Two camera inputs"
+    ],
+    "image": "https://www.onlinecarstereo.com/CarAudio/assets/ProductImages/iLX-F511_3.jpg"
+  },
+  {
+    "id": "alpine-ilx-507",
+    "brand": "Alpine",
+    "name": "Alpine iLX-507",
+    "price": 499,
+    "screen": "7-inch",
+    "desc": "Refurbished Alpine iLX-507 7-inch digital multimedia receiver with HD display, Hi-Res audio, wired and wireless Apple CarPlay, Android Auto and flexible camera connectivity.",
+    "features": [
+      "7-inch 720p HD display",
+      "Wired & wireless Apple CarPlay",
+      "Wired & wireless Android Auto",
+      "Hi-Res audio playback",
+      "Bluetooth audio",
+      "Standard double-DIN fitment"
+    ],
+    "image": "https://www.onlinecarstereo.com/CarAudio/assets/ProductImages/iLX-507_3.jpg"
+  },
+  {
+    "id": "alpine-ilx-w650",
+    "brand": "Alpine",
+    "name": "Alpine iLX-W650",
+    "price": 349,
+    "screen": "7-inch",
+    "desc": "Refurbished Alpine iLX-W650 shallow-chassis multimedia receiver designed for easy installation, with Apple CarPlay, Android Auto, Bluetooth and rear camera support.",
+    "features": [
+      "7-inch capacitive touchscreen",
+      "Apple CarPlay",
+      "Android Auto",
+      "Built-in Bluetooth",
+      "Shallow 2-DIN chassis",
+      "Rear/front camera support"
+    ],
+    "image": "https://www.onlinecarstereo.com/CarAudio/assets/ProductImages/iLX-W650_3.jpg"
+  },
+  {
+    "id": "sony-xav-ax6000",
+    "brand": "Sony",
+    "name": "Sony XAV-AX6000",
+    "price": 449,
+    "screen": "6.95-inch",
+    "desc": "Refurbished Sony XAV-AX6000 digital multimedia receiver with a bezel-less touchscreen, wireless Apple CarPlay and Android Auto, HDMI, LDAC and advanced sound customization.",
+    "features": [
+      "6.95-inch capacitive touchscreen",
+      "Wireless Apple CarPlay & Android Auto",
+      "HDMI input",
+      "LDAC Bluetooth audio",
+      "14-band EQ",
+      "Rear-view camera ready"
+    ],
+    "image": "https://www.onlinecarstereo.com/CarAudio/assets/ProductImages/XAV-AX6000_3.jpg"
+  },
+  {
+    "id": "sony-xav-ax5500",
+    "brand": "Sony",
+    "name": "Sony XAV-AX5500",
+    "price": 299,
+    "screen": "6.95-inch",
+    "desc": "Refurbished Sony XAV-AX5500 media receiver with a bezel-less 6.95-inch touchscreen, smartphone connectivity, Bluetooth and rear-camera support.",
+    "features": [
+      "6.95-inch touchscreen",
+      "Apple CarPlay & Android Auto",
+      "Bluetooth audio and hands-free",
+      "10-band EQ",
+      "Two rear USB ports",
+      "Rear-view camera input"
+    ],
+    "image": "https://www.onlinecarstereo.com/CarAudio/assets/ProductImages/XAV-AX5500_3.jpg"
+  },
+  {
+    "id": "sony-xav-ax3200",
+    "brand": "Sony",
+    "name": "Sony XAV-AX3200",
+    "price": 279,
+    "screen": "6.95-inch",
+    "desc": "Refurbished Sony XAV-AX3200 digital media receiver with a 6.95-inch touchscreen, WebLink Cast, Apple CarPlay, Android Auto and rear-view camera support.",
+    "features": [
+      "6.95-inch touchscreen",
+      "Apple CarPlay & Android Auto",
+      "WebLink Cast",
+      "Bluetooth",
+      "Rear-view camera input",
+      "55W x4 maximum power"
+    ],
+    "image": "https://www.onlinecarstereo.com/CarAudio/assets/ProductImages/XAV-AX3200_3.jpg"
+  },
+  {
+    "id": "sony-xav-ax4000",
+    "brand": "Sony",
+    "name": "Sony XAV-AX4000",
+    "price": 399,
+    "screen": "6.95-inch",
+    "desc": "Refurbished Sony XAV-AX4000 digital multimedia receiver with wireless smartphone connectivity, USB-C, LDAC, time alignment and 14-band EQ.",
+    "features": [
+      "6.95-inch anti-glare touchscreen",
+      "Wireless Apple CarPlay & Android Auto",
+      "USB Type-C",
+      "LDAC Bluetooth audio",
+      "14-band EQ",
+      "Rear-view camera ready"
+    ],
+    "image": "https://www.onlinecarstereo.com/CarAudio/assets/ProductImages/XAV-AX4000_3.jpg"
+  },
+  {
+    "id": "pioneer-dmh-wt7600nex",
+    "brand": "Pioneer",
+    "name": "Pioneer DMH-WT7600NEX",
+    "price": 649,
+    "screen": "9-inch class",
+    "desc": "Refurbished Pioneer floating-style multimedia receiver with a large adjustable display, smartphone integration, Bluetooth and flexible installation features.",
+    "features": [
+      "Large floating touchscreen",
+      "Apple CarPlay & Android Auto",
+      "Bluetooth",
+      "HDMI connectivity",
+      "Multiple camera inputs",
+      "Flexible mounting"
+    ],
+    "image": "https://m.media-amazon.com/images/I/41hqvUJZkEL.jpg"
+  },
+  {
+    "id": "pioneer-dmh-wt8600nex",
+    "brand": "Pioneer",
+    "name": "Pioneer DMH-WT8600NEX",
+    "price": 799,
+    "screen": "10.1-inch",
+    "desc": "Refurbished Pioneer 10.1-inch floating multimedia receiver built for a large-format dash upgrade with smartphone integration, Bluetooth and advanced audio control.",
+    "features": [
+      "10.1-inch floating display",
+      "Apple CarPlay & Android Auto",
+      "Bluetooth audio",
+      "HDMI connectivity",
+      "Camera input support",
+      "Advanced audio controls"
+    ],
+    "image": "https://www.onlinecarstereo.com/caraudio/assets/productimages/Pioneer_DMH-WT8600NEX-1.jpg"
+  },
+  {
+    "id": "pioneer-dmh-2660nex",
+    "brand": "Pioneer",
+    "name": "Pioneer DMH-2660NEX",
+    "price": 349,
+    "screen": "6.8-inch class",
+    "desc": "Refurbished Pioneer DMH-2660NEX digital multimedia receiver with touchscreen control, smartphone integration, Bluetooth and rear camera support.",
+    "features": [
+      "Touchscreen multimedia receiver",
+      "Apple CarPlay & Android Auto",
+      "Bluetooth",
+      "Rear camera input",
+      "USB media playback",
+      "Steering-wheel control compatible with adapter"
+    ],
+    "image": "https://m.media-amazon.com/images/I/410IBuOXqiL._SL500_.jpg"
+  },
+  {
+    "id": "kenwood-dmx907s",
+    "brand": "Kenwood",
+    "name": "Kenwood eXcelon DMX907S",
+    "price": 499,
+    "screen": "6.95-inch",
+    "desc": "Refurbished Kenwood eXcelon DMX907S digital multimedia receiver with smartphone integration, Bluetooth, advanced audio processing and camera support.",
+    "features": [
+      "6.95-inch touchscreen",
+      "Apple CarPlay & Android Auto",
+      "Bluetooth",
+      "Advanced DSP audio controls",
+      "Multiple camera support",
+      "Steering-wheel control support with interface"
+    ],
+    "image": "https://cdn11.bigcommerce.com/s-oqfwjl/images/stencil/500x659/products/37077/255396/kenwoodbdl211203-02__5__37779.1639590906.jpg?c=2"
+  }
+]
